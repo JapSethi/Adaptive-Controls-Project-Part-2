@@ -19,7 +19,7 @@
 ### Results: 
 ## <div align="center">Full Output Feedback System</div>
 
-<p align="center"><img src="ReducedFirstOrderGraphs.jpg"> </p>
+<p align="center"><img src="AllGraphsin2by2_Part2.jpg"> </p>
 
 
 #### Languages Used:
