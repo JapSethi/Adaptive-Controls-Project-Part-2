@@ -27,7 +27,7 @@
 - Simulink
 
 #### Use of each file:
-- [**AdaptiveControlsProjectPart2_Sethi.mlx**](AdaptiveControlsProjectPart1_Sethi.mlx) - Executable file with clearly defined problem statement and approach
-- [**AdaptiveControlsProjectPart2_Sethi.pdf**](AdaptiveControlsProjectPart1_Sethi.pdf) - Published Document for a quick check of Solutions and Code
-- [**AdaptiveControlsProjectPart2_Sethi.slx**](AdaptiveControlsProjectPart1_Sethi.slx) - Simulink Model with clearly defined subsystems of both reduced Order and Full Second Order system
+- [**AdaptiveControlsProjectPart2_Sethi.mlx**](AdaptiveControlsProjectPart2_Sethi.mlx) - Executable file with clearly defined problem statement and approach
+- [**AdaptiveControlsProjectPart2_Sethi.pdf**](AdaptiveControlsProjectPart2_Sethi.pdf) - Published Document for a quick check of Solutions and Code
+- [**AdaptiveControlsProjectPart2_Sethi.slx**](AdaptiveControlsProjectPart2_Sethi.slx) - Simulink Model with clearly defined subsystems of both reduced Order and Full Second Order system
 > **Note:** Comment out the portion you are not going to use in both simulink and the .mlx script file.
