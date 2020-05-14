@@ -14,7 +14,7 @@
 
 ### Overview (For Part 1):
 
-<p align="center"><img src="Overview_Part1.JPG"> </p>
+<p align="center"><img src="Overview_Part2.JPG"> </p>
 
 ### Tasks List:
 **Steps taken to develop a MRAC controller**
@@ -33,15 +33,9 @@
 
 
 ### Results: 
-## <div align="center">Reduced First Order System</div>
+## <div align="center">Full Output Feedback System</div>
 
 <p align="center"><img src="ReducedFirstOrderGraphs.jpg"> </p>
-
-## <div align="center">Full Second Order System</div>
-
-<p align="center"><img src="AllGraphsin2by2_WithProjection.jpg"> </p>
-<p align="center"><img src="ConvexF_NormVel_1by2.jpg"> </p>
-
 
 
 #### Languages Used:
@@ -49,7 +43,7 @@
 - Simulink
 
 #### Use of each file:
-- [**AdaptiveControlsProjectPart1_Sethi.mlx**](AdaptiveControlsProjectPart1_Sethi.mlx) - Executable file with clearly defined problem statement and approach
-- [**AdaptiveControlsProjectPart1_Sethi.pdf**](AdaptiveControlsProjectPart1_Sethi.pdf) - Published Document for a quick check of Solutions and Code
-- [**AdaptiveControlsProjectPart1_Sethi.slx**](AdaptiveControlsProjectPart1_Sethi.slx) - Simulink Model with clearly defined subsystems of both reduced Order and Full Second Order system
+- [**AdaptiveControlsProjectPart2_Sethi.mlx**](AdaptiveControlsProjectPart1_Sethi.mlx) - Executable file with clearly defined problem statement and approach
+- [**AdaptiveControlsProjectPart2_Sethi.pdf**](AdaptiveControlsProjectPart1_Sethi.pdf) - Published Document for a quick check of Solutions and Code
+- [**AdaptiveControlsProjectPart2_Sethi.slx**](AdaptiveControlsProjectPart1_Sethi.slx) - Simulink Model with clearly defined subsystems of both reduced Order and Full Second Order system
 > **Note:** Comment out the portion you are not going to use in both simulink and the .mlx script file.
