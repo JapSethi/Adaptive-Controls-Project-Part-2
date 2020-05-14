@@ -12,7 +12,7 @@
 
 <p align="center"><img src="Background.JPG"> </p>
 
-### Overview (For Part 1):
+### Overview (For Part 2):
 
 <p align="center"><img src="Overview_Part2.JPG"> </p>
 
